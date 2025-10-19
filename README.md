@@ -1,4 +1,4 @@
-This application is an event planenr that is targetted towards surfing.
+This application is an event planner that is targetted towards surfing.
 
 It allows for slots that users can sign up for with an easy to manage and maneuver admin panel.
 Everything is user-friendly and allows for an intuitive and all inclusive event tracker / planner for surfing.
